@@ -1,0 +1,6 @@
+Contain 4 files:
+1: release_train_patients (male : female = 5 : 5)
+2-4: release_test_patients contain 3 categories
+All_data_Female3638 （Only female）
+All_data_Male3638 (Only male)
+All_data_MandF_7276_random (male + female 5:5 random)
