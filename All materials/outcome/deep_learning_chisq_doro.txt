@@ -1,0 +1,399 @@
+alpha = 0.05
+eps = 0.01
+Test loss: 0.0387, Accuracy: 19796/34295 (58%)
+
+alpha = 0.05
+eps = 0.01
+Test loss: 0.0398, Accuracy: 13570/34295 (40%)
+
+alpha = 0.05
+eps = 0.01
+Test loss: 0.0357, Accuracy: 19169/34295 (56%)
+
+alpha = 0.05
+eps = 0.01
+Test loss: 0.0396, Accuracy: 19960/34295 (58%)
+
+alpha = 0.05
+eps = 0.01
+Test loss: 0.0374, Accuracy: 16640/34295 (49%)
+
+alpha = 0.1
+eps = 0.01
+Test loss: 0.0374, Accuracy: 20022/34295 (58%)
+
+alpha = 0.1
+eps = 0.01
+Test loss: 0.0388, Accuracy: 19809/34295 (58%)
+
+alpha = 0.1
+eps = 0.01
+Test loss: 0.0388, Accuracy: 14349/34295 (42%)
+
+alpha = 0.1
+eps = 0.01
+Test loss: 0.0396, Accuracy: 16948/34295 (49%)
+
+alpha = 0.1
+eps = 0.01
+Test loss: 0.0409, Accuracy: 17092/34295 (50%)
+
+alpha = 0.15
+eps = 0.01
+Test loss: 0.0374, Accuracy: 18353/34295 (54%)
+
+alpha = 0.15
+eps = 0.01
+Test loss: 0.0364, Accuracy: 15536/34295 (45%)
+
+alpha = 0.15
+eps = 0.01
+Test loss: 0.0394, Accuracy: 17288/34295 (50%)
+
+alpha = 0.15
+eps = 0.01
+Test loss: 0.0438, Accuracy: 9689/34295 (28%)
+
+alpha = 0.15
+eps = 0.01
+Test loss: 0.0546, Accuracy: 13911/34295 (41%)
+
+alpha = 0.2
+eps = 0.01
+Test loss: 0.0358, Accuracy: 17489/34295 (51%)
+
+alpha = 0.2
+eps = 0.01
+Test loss: 0.0348, Accuracy: 18959/34295 (55%)
+
+alpha = 0.2
+eps = 0.01
+Test loss: 0.0386, Accuracy: 15870/34295 (46%)
+
+alpha = 0.2
+eps = 0.01
+Test loss: 0.0363, Accuracy: 17457/34295 (51%)
+
+alpha = 0.2
+eps = 0.01
+Test loss: 0.0377, Accuracy: 17393/34295 (51%)
+
+alpha = 0.25
+eps = 0.01
+Test loss: 0.0305, Accuracy: 21682/34295 (63%)
+
+alpha = 0.25
+eps = 0.01
+Test loss: 0.0307, Accuracy: 22024/34295 (64%)
+
+alpha = 0.25
+eps = 0.01
+Test loss: 0.0297, Accuracy: 22448/34295 (65%)
+
+alpha = 0.25
+eps = 0.01
+Test loss: 0.0327, Accuracy: 19227/34295 (56%)
+
+alpha = 0.25
+eps = 0.01
+Test loss: 0.0324, Accuracy: 23046/34295 (67%)
+
+alpha = 0.3
+eps = 0.01
+Test loss: 0.0266, Accuracy: 23133/34295 (67%)
+
+alpha = 0.3
+eps = 0.01
+Test loss: 0.0294, Accuracy: 22767/34295 (66%)
+
+alpha = 0.3
+eps = 0.01
+Test loss: 0.0280, Accuracy: 22718/34295 (66%)
+
+alpha = 0.3
+eps = 0.01
+Test loss: 0.0297, Accuracy: 22113/34295 (64%)
+
+alpha = 0.3
+eps = 0.01
+Test loss: 0.0925, Accuracy: 21133/34295 (62%)
+
+alpha = 0.35
+eps = 0.01
+Test loss: 0.1161, Accuracy: 18830/34295 (55%)
+
+alpha = 0.35
+eps = 0.01
+Test loss: 0.0363, Accuracy: 24232/34295 (71%)
+
+alpha = 0.35
+eps = 0.01
+Test loss: 0.0472, Accuracy: 22321/34295 (65%)
+
+alpha = 0.35
+eps = 0.01
+Test loss: 0.0640, Accuracy: 22073/34295 (64%)
+
+alpha = 0.35
+eps = 0.01
+Test loss: 0.1728, Accuracy: 21160/34295 (62%)
+
+alpha = 0.4
+eps = 0.01
+Test loss: 0.0873, Accuracy: 23192/34295 (68%)
+
+alpha = 0.4
+eps = 0.01
+Test loss: 0.0598, Accuracy: 25195/34295 (73%)
+
+alpha = 0.4
+eps = 0.01
+Test loss: 0.0892, Accuracy: 23115/34295 (67%)
+
+alpha = 0.4
+eps = 0.01
+Test loss: 0.1559, Accuracy: 21853/34295 (64%)
+
+alpha = 0.4
+eps = 0.01
+Test loss: 0.2980, Accuracy: 21695/34295 (63%)
+
+alpha = 0.45
+eps = 0.01
+Test loss: 0.1683, Accuracy: 23085/34295 (67%)
+
+alpha = 0.45
+eps = 0.01
+Test loss: 0.2049, Accuracy: 22187/34295 (65%)
+
+alpha = 0.45
+eps = 0.01
+Test loss: 0.0980, Accuracy: 21919/34295 (64%)
+
+alpha = 0.45
+eps = 0.01
+Test loss: 0.1477, Accuracy: 22947/34295 (67%)
+
+alpha = 0.45
+eps = 0.01
+Test loss: 0.1239, Accuracy: 22327/34295 (65%)
+
+alpha = 0.5
+eps = 0.01
+Test loss: 0.1134, Accuracy: 23196/34295 (68%)
+
+alpha = 0.5
+eps = 0.01
+Test loss: 0.2258, Accuracy: 22797/34295 (66%)
+
+alpha = 0.5
+eps = 0.01
+Test loss: 0.2654, Accuracy: 23711/34295 (69%)
+
+alpha = 0.5
+eps = 0.01
+Test loss: 0.2403, Accuracy: 21940/34295 (64%)
+
+alpha = 0.5
+eps = 0.01
+Test loss: 0.1249, Accuracy: 23189/34295 (68%)
+
+alpha = 0.55
+eps = 0.01
+Test loss: 0.0932, Accuracy: 24814/34295 (72%)
+
+alpha = 0.55
+eps = 0.01
+Test loss: 0.2566, Accuracy: 23053/34295 (67%)
+
+alpha = 0.55
+eps = 0.01
+Test loss: 0.0507, Accuracy: 25744/34295 (75%)
+
+alpha = 0.55
+eps = 0.01
+Test loss: 0.0826, Accuracy: 25279/34295 (74%)
+
+alpha = 0.55
+eps = 0.01
+Test loss: 0.1205, Accuracy: 23356/34295 (68%)
+
+alpha = 0.6
+eps = 0.01
+Test loss: 0.0901, Accuracy: 24470/34295 (71%)
+
+alpha = 0.6
+eps = 0.01
+Test loss: 0.1887, Accuracy: 22297/34295 (65%)
+
+alpha = 0.6
+eps = 0.01
+Test loss: 0.2092, Accuracy: 21949/34295 (64%)
+
+alpha = 0.6
+eps = 0.01
+Test loss: 0.1990, Accuracy: 22806/34295 (66%)
+
+alpha = 0.6
+eps = 0.01
+Test loss: 0.0638, Accuracy: 25248/34295 (74%)
+
+alpha = 0.65
+eps = 0.01
+Test loss: 0.1437, Accuracy: 23123/34295 (67%)
+
+alpha = 0.65
+eps = 0.01
+Test loss: 0.3745, Accuracy: 23527/34295 (69%)
+
+alpha = 0.65
+eps = 0.01
+Test loss: 0.1365, Accuracy: 23698/34295 (69%)
+
+alpha = 0.65
+eps = 0.01
+Test loss: 0.0995, Accuracy: 25531/34295 (74%)
+
+alpha = 0.65
+eps = 0.01
+Test loss: 0.0804, Accuracy: 24839/34295 (72%)
+
+alpha = 0.7
+eps = 0.01
+Test loss: 0.1812, Accuracy: 24143/34295 (70%)
+
+alpha = 0.7
+eps = 0.01
+Test loss: 0.2821, Accuracy: 22515/34295 (66%)
+
+alpha = 0.7
+eps = 0.01
+Test loss: 0.1140, Accuracy: 24093/34295 (70%)
+
+alpha = 0.7
+eps = 0.01
+Test loss: 0.1507, Accuracy: 24009/34295 (70%)
+
+alpha = 0.7
+eps = 0.01
+Test loss: 0.2611, Accuracy: 22854/34295 (67%)
+
+alpha = 0.75
+eps = 0.01
+Test loss: 0.2592, Accuracy: 22636/34295 (66%)
+
+alpha = 0.75
+eps = 0.01
+Test loss: 0.1806, Accuracy: 24362/34295 (71%)
+
+alpha = 0.75
+eps = 0.01
+Test loss: 0.3322, Accuracy: 22393/34295 (65%)
+
+alpha = 0.75
+eps = 0.01
+Test loss: 0.5879, Accuracy: 22248/34295 (65%)
+
+alpha = 0.75
+eps = 0.01
+Test loss: 0.5220, Accuracy: 21288/34295 (62%)
+
+alpha = 0.8
+eps = 0.01
+Test loss: 0.2869, Accuracy: 22973/34295 (67%)
+
+alpha = 0.8
+eps = 0.01
+Test loss: 0.3461, Accuracy: 22600/34295 (66%)
+
+alpha = 0.8
+eps = 0.01
+Test loss: 0.2582, Accuracy: 23486/34295 (68%)
+
+alpha = 0.8
+eps = 0.01
+Test loss: 0.6095, Accuracy: 20538/34295 (60%)
+
+alpha = 0.8
+eps = 0.01
+Test loss: 0.6951, Accuracy: 20303/34295 (59%)
+
+alpha = 0.85
+eps = 0.01
+Test loss: 0.3769, Accuracy: 22996/34295 (67%)
+
+alpha = 0.85
+eps = 0.01
+Test loss: 0.4408, Accuracy: 22597/34295 (66%)
+
+alpha = 0.85
+eps = 0.01
+Test loss: 0.9429, Accuracy: 19661/34295 (57%)
+
+alpha = 0.85
+eps = 0.01
+Test loss: 1.4029, Accuracy: 16447/34295 (48%)
+
+alpha = 0.85
+eps = 0.01
+Test loss: 0.9570, Accuracy: 20182/34295 (59%)
+
+alpha = 0.9
+eps = 0.01
+Test loss: 0.9694, Accuracy: 20429/34295 (60%)
+
+alpha = 0.9
+eps = 0.01
+Test loss: 1.4751, Accuracy: 17910/34295 (52%)
+
+alpha = 0.9
+eps = 0.01
+Test loss: 1.3659, Accuracy: 18546/34295 (54%)
+
+alpha = 0.9
+eps = 0.01
+Test loss: 0.9213, Accuracy: 21221/34295 (62%)
+
+alpha = 0.9
+eps = 0.01
+Test loss: 1.0965, Accuracy: 18286/34295 (53%)
+
+alpha = 0.95
+eps = 0.01
+Test loss: 1.1071, Accuracy: 20381/34295 (59%)
+
+alpha = 0.95
+eps = 0.01
+Test loss: 1.2276, Accuracy: 19501/34295 (57%)
+
+alpha = 0.95
+eps = 0.01
+Test loss: 0.9078, Accuracy: 20732/34295 (60%)
+
+alpha = 0.95
+eps = 0.01
+Test loss: 1.4413, Accuracy: 17708/34295 (52%)
+
+alpha = 0.95
+eps = 0.01
+Test loss: 1.4123, Accuracy: 17473/34295 (51%)
+
+alpha = 1.0
+eps = 0.01
+Test loss: 1.1546, Accuracy: 20853/34295 (61%)
+
+alpha = 1.0
+eps = 0.01
+Test loss: 1.4145, Accuracy: 18327/34295 (53%)
+
+alpha = 1.0
+eps = 0.01
+Test loss: 1.5449, Accuracy: 20012/34295 (58%)
+
+alpha = 1.0
+eps = 0.01
+Test loss: 1.5540, Accuracy: 19267/34295 (56%)
+
+alpha = 1.0
+eps = 0.01
+Test loss: 1.0443, Accuracy: 21060/34295 (61%)

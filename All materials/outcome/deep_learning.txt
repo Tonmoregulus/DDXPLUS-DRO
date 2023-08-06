@@ -1,0 +1,9 @@
+Test loss: 0.0542, Accuracy: 21741/34295 (63%)
+
+Test loss: 0.0617, Accuracy: 22418/34295 (65%)
+
+Test loss: 0.0529, Accuracy: 22431/34295 (65%)
+
+Test loss: 0.0827, Accuracy: 21589/34295 (63%)
+
+Test loss: 0.2201, Accuracy: 17707/34295 (52%)
