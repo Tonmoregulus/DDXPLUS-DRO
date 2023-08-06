@@ -1,0 +1,2 @@
+AGE,DIFFERENTIAL_DIAGNOSIS,SEX,PATHOLOGY,EVIDENCES,INITIAL_EVIDENCE
+65,"[['Laryngite aigue', 0.7141130981150314], ['Chagas', 0.28588690188496857]]",M,Laryngite aigue,"['douleurxx', 'douleurxx_carac_@_sensible', 'douleurxx_endroitducorps_@_palais', 'douleurxx_intens_@_5', 'douleurxx_irrad_@_nulle_part', 'douleurxx_precis_@_6', 'douleurxx_soudain_@_2', 'f17.210', 'fievre', 'trav1_@_N', 'volume_parole']",fievre
